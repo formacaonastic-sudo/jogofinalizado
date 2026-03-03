@@ -1,0 +1,2 @@
+# jogofinalizado
+jogo finalizado
